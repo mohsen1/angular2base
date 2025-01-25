@@ -9,7 +9,7 @@
   "dependencies": {
     "angular2": "2.0.0-alpha.44",
     "reflect-metadata": "^0.1.2",
-    "zone.js": "^0.5.8"
+    "zone.js": "^0.15.0"
   },
   "devDependencies": {
     "firebase-cli": "^1.2.0",
